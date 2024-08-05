@@ -39,7 +39,6 @@ export const removeFood = async (req, res) => {
     try {
       //find food model using id
       const food = await foodModel.findById(req.body.id);
-    //   console.log("food",food)
   
       //delete image from the folder
       fs.unlink(`uploads/${food.image}`, () => {});
