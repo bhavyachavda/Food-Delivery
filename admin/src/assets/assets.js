@@ -15,4 +15,4 @@ export const assets ={
 }
 
 // export const url = 'http://localhost:4000'
-export const url = 'http://food-delivery-beta-smoky.vercel.app'
+export const url = 'https://food-delivery-3d1f.onrender.com/'
