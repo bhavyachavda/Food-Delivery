@@ -10,13 +10,13 @@ import orderRouter from "./routes/orderRoute.js";
 
 //app config
 const app = express();
-const port = process.env.PORT || 4000;
+const port = 4000;
 
 //middleware
 app.use(express.json());
 app.use(cors(
     {
-        origin: [""],
+        origin: ["https://deploy-mern.vercel.app"],
         methods: ["POST","GET"],
         credentials: true
     }
