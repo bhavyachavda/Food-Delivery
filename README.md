@@ -5,7 +5,6 @@ This repository hosts the source code for TOMATO, a dynamic food ordering websit
 ## Demo
 
 - User Panel: [https://food-delivery-frontend-11bu.onrender.com/](https://food-delivery-frontend-11bu.onrender.com/)
-- Admin Panel: [https://food-delivery-admin-xhae.onrender.com/](https://food-delivery-admin-xhae.onrender.com/)
 
 ## Features
 
